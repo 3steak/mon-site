@@ -1,10 +1,10 @@
-📌 Projet Raspberry Pi 5 - Serveur Web PHP avec GitHub
+##📌 Projet Raspberry Pi 5 - Serveur Web PHP avec GitHub
 
-🌟 Introduction
+#🌟 Introduction
 
 Ce projet transforme un Raspberry Pi 5 en un serveur web complet, permettant d'héberger des sites PHP et de gérer les fichiers via GitHub. Il inclut Apache, PHP, MariaDB (MySQL), PHPMyAdmin et un système de déploiement avec Git.
 
-🛠️ Installation et Configuration
+#🛠️ Installation et Configuration
 
 1️⃣ Préparer le Raspberry Pi
 
@@ -49,13 +49,13 @@ git add .
 git commit -m "Premier commit"
 git push -u origin main
 
-🚀 Accéder au site
+#🚀 Accéder au site
 
 En local : http://localhost
 
 Depuis un autre appareil : http://<IP_DU_RASPBERRY>
 
-📂 Gestion des fichiers via GitHub
+#📂 Gestion des fichiers via GitHub
 
 Déploiement sur le serveur
 
@@ -65,7 +65,7 @@ git add .
 git commit -m "Mise à jour"
 git push origin main
 
-🔥 Fonctionnalités futures
+#🔥 Fonctionnalités futures
 
 ✅ Hébergement de plusieurs sites (Virtual Hosts)
 ✅ Sécurisation avec HTTPS (Let's Encrypt)
